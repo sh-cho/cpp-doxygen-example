@@ -4,7 +4,7 @@
 
 Generate / publish doxygen with github actions
 
-## Make it locally
+## Make docs locally
 
 ```sh
 brew install doxygen
@@ -20,3 +20,6 @@ Make Doxyfile
 doxygen Doxyfile
 ```
 Generate docs with Doxyfile
+
+## etc
+- [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)
