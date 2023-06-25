@@ -1,5 +1,7 @@
 # cpp-doxygen-example
 
+[![Deploy doxygen to Pages](https://github.com/sh-cho/cpp-doxygen-example/actions/workflows/deploy_docs.yml/badge.svg?branch=main&event=push)](https://github.com/sh-cho/cpp-doxygen-example/actions/workflows/deploy_docs.yml)
+
 Generate / publish doxygen with github actions
 
 ## Make it locally
