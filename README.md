@@ -4,6 +4,9 @@
 
 Generate / publish doxygen with github actions
 
+## envs
+- doxygen 1.9.6
+
 ## Make docs locally
 
 ```sh
