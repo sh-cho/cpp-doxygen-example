@@ -5,7 +5,8 @@
 Generate / publish doxygen with github actions
 
 ## envs
-- doxygen 1.9.6
+- doxygen: 1.9.6
+- [doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): v2.2.1
 
 ## Make docs locally
 
@@ -23,6 +24,3 @@ Make Doxyfile
 doxygen Doxyfile
 ```
 Generate docs with Doxyfile
-
-## etc
-- [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css)
